@@ -1,0 +1,1 @@
+In computer science, an algorithm is a step-by-step procedure to solve a problem. It can be implemented in programming languages like Python, Java, or C++.
