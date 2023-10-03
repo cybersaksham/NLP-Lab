@@ -3,3 +3,4 @@ venv
 __pycharm__
 output
 .DS_Store
+*.zip
